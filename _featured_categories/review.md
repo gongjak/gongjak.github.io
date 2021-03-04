@@ -4,7 +4,7 @@ title: Review
 slug: review
 menu: true
 submenu: false
-order: 6
+order: 3
 description: >
-  IT 기기 및 생활 용품들의 찐 사용기 모음.
+  IT 기기 및 생활 용품들의 내돈내산 찐 사용기 모음.
 ---

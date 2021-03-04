@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
-category: dev
+title: (OS) LINUX
+slug: os
+category: devops
 menu: false
 order: 1
 ---

@@ -8,7 +8,8 @@ gongjak:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Data science enthusiast and addict :)
+    AWS/GCP Cloud Solutions Architect.
+    MySQL/PostgreSQL/Cassandra/Riak Database Administrator.
 
   # This photo will be used in the about section
   picture:
@@ -22,7 +23,7 @@ gongjak:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        cantouchmin
+    facebook:        sungjae.yun
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
