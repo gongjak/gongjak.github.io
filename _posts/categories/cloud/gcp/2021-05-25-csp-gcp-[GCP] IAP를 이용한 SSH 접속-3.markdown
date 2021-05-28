@@ -1,21 +1,22 @@
 ---
-title:  "[GCP] 아무도 알려주지 않는 GCP 실전 비법"
-subtitle:   "IAP(Identity-Aware Proxy)를 이용한 SSH 접속"
-tags: gcp google cloud platform ssh
-date: 2021-05-23 12:40:13 +0900
-background: '/img/csp/gcp/google-cloud-platform.png'
+title:  "[GCP] 아무도 알려주지 않는 GCP 실전 비법-3"
+excerpt:   "IAP(Identity-Aware Proxy)를 이용한 SSH 접속"
+toc: true
+toc_sticky: true
+header:
+  teaser: /images/csp/gcp/google-cloud-platform.png
+
+categories:
+  - GCP
+tags:
+  - GCP(Google Cloud Platform)
+  - SSH
+last_modified_at: 2021-05-23T12:40:13+0900
 comments: true
 ---
+
 # 개요
 >External IP가 없는 인스턴스가 있다면, 이 서버는 인터넷과 격리되어 관리자가 직접 연결하여 CLI 명령어를 실행할 수가 없다는 것은 모든 이들이 잘 알고 있다. 그런데, GCP에서는 External IP가 없어도 인스턴스에 연결할 수 있는 방법을 제공하고 있다. IAP(Identity-Aware Proxy) 서비스를 이용하면 External IP 없이도 인스턴스에 접속이 가능하다.
-
-- 목차
-    - [Identity-Aware Proxy 란 무엇입니까?](#identity-aware-proxy-란-무엇입니까)
-    - [구성 방법](#구성-방법)
-    - [SSH 버튼 조건](#ssh-버튼-조건)
-    - [결론](#결론)
-
----
 
 # Identity-Aware Proxy 란 무엇입니까?
 IAP (Identity-Aware Proxy)는 애플리케이션으로 전송 된 웹 요청을 가로 채고 Google ID 서비스를 사용하여 요청하는 사용자를 인증하며 승인 된 사용자가 요청한 경우에만 요청을 허용하는 Google Cloud Platform 서비스이다. 또한 인증 된 사용자에 대한 정보를 포함하도록 요청 헤더를 수정할 수 있다.

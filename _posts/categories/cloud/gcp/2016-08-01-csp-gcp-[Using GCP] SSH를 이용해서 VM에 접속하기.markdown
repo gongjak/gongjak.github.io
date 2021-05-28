@@ -4,7 +4,7 @@ excerpt: "SSH를 이용해서 VM에 접속해보자"
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/csp/gcp/gcp-book1.png
+  teaser: /images/csp/gcp/gcp-book1.png
 
 categories:
   - GCP
@@ -18,6 +18,8 @@ comments: true
 > 이 내용은 "빠르게 훓어보는 구글 클라우드 플랫폼(한빛미디어. 2016-08-23)"을 집필하면서 작성했던 원고이다.
 > 출판된 책은 PDF 파일로 무료로 [다운로드](https://www.hanbit.co.kr/store/books/look.php?p_code=E5359426070) 받을 수 있다.
 
+작성자: [윤성재](https://gongjak.github.io/), [조대협](http://bcho.tistory.com/)
+
 # 개요
 
 클라우드에서 VM을 생성하면, 이 VM에 접속할 필요가 있는데, 일반적으로 SSH를 이용한다.SSH로 접속하는 방법은 크게 다음과 같이 4가지 방법이 있다.
@@ -30,11 +32,6 @@ comments: true
 이 중 가장 쉬운 방법은 1번일 것이다. 웹 브라우저에서 그냥 클릭만 하면 바로 접속 된다. 인스턴스 한 대에만 접속한다면 분명 가장 쉽고 편하게 접속할 수 있는 방법이다.
 그 다음으로는 gcloud 명령어로 접속하는 방법일 것이다. 이는 맥킨토시나 리눅스를 PC로 사용하는 사람들에게는 무척이나 쉽고 편하게 강력한 기능들을 제공해줄 것이다.하지만 많은 이들이 윈도우를 사용하고 있고, 윈도우에서 서버로 접속하기 위해 SecureCRT 나 PuTTY 같은 ssh client 프로그램을 사용하고 있다.
 이 장에서는 윈도우와 맥에서 SSH를 이용하여 생성된 VM에 접속하는 방법을 알아보도록 한다.
-
----
-
-작성자: [윤성재](https://gongjak.github.io/), [조대협](http://bcho.tistory.com/)
-
 
 
 # MAC OS에서 SSH로 접속하기

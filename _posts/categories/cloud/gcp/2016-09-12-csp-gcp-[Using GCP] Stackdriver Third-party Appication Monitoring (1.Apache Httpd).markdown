@@ -1,33 +1,32 @@
 ---
 title:  "[Using GCP] Stackdriver Third-party Appication Monitoring (1.Apache Httpd)"
-subtitle:   "Stackdriver Third-party Appication Monitoring (1.Apache Httpd)"
-categories: csp
-tags: gcp google cloud platform stackdriver apache httpd
-date: 2016-09-12 15:18:13 +0900
-background: '/img/csp/gcp/gcp-book1.png'
+excerpt:   "Stackdriver Third-party Appication Monitoring (1.Apache Httpd)"
+toc: true
+toc_sticky: true
+header:
+  teaser: /images/csp/gcp/gcp-book1.png
+
+categories:
+  - GCP
+tags:
+  - GCP(Google Cloud Platform)
+  - Apache HTTPD
+last_modified_at: 2016-09-12T15:18:13+0900
 comments: true
 ---
-## 개요
 > 이 내용은 "빠르게 훓어보는 구글 클라우드 플랫폼(한빛미디어. 2016-08-23)"을 집필한 뒤, 부족한 부분에 대해 추가 작성한 내용이다.
 > 출판된 책은 PDF 파일로 무료로 [다운로드](https://www.hanbit.co.kr/store/books/look.php?p_code=E5359426070) 받을 수 있다.
->
->Stackdriver의 Apache Httpd Plugin에 대한 포스팅이다.
+
+작성자: [윤성재](https://gongjak.github.io/)
+
+# 개요
+
+Stackdriver의 Apache Httpd Plugin에 대한 포스팅이다.
 
 
-- 목차
-    - [Apache Httpd 설치와 시작](#apache-httpd-설치와-시작)
-    - [사전 준비](#사전-준비)
-    - [plugin 설치](#plugin-설치)
-    - [Stackdriver Agent 재시작](#stackdriver-agent-재시작)
-    - [Monitoring 확인](#monitoring-확인)
-    - [현재 모니터링이 가능한 항목](#현재-모니터링이-가능한-항목)
+# Apache Httpd Plugin
 
-
----
-
-## Apache Httpd Plugin
-
-### Apache Httpd 설치와 시작
+## Apache Httpd 설치와 시작
 
 < Debian 8 >
 
@@ -51,7 +50,7 @@ sudo systemctl status httpd
 
 이제 각 인스턴스의 “External IP”로 웹서버에 접속할 수 있다.
 
-### 사전 준비
+## 사전 준비
 
 Apache plugin 중에 mod_status 가 설치되어 있는지 확인한다.
 
@@ -59,7 +58,7 @@ Apache plugin 중에 mod_status 가 설치되어 있는지 확인한다.
 curl http://localhost:80/server-status?auto
 ```
 
-![2016-09-12-csp-gcp-stackdriver-httpd-1.jpg](/img/csp/gcp/2016-09-12-csp-gcp-stackdriver-httpd-1.jpg)
+![2016-09-12-csp-gcp-stackdriver-1-1.jpg](/images/csp/gcp/2016-09-12-csp-gcp-stackdriver-1-1.jpg)
 
 < Debian 8 >
 
@@ -77,13 +76,13 @@ sudo su -c "echo 'LoadModule status_module modules/mod_status.so' > /etc/httpd/c
 sudo systemctl restart httpd
 ```
 
-### plugin 설치
+## plugin 설치
 
 ```bash
 cd /opt/stackdriver/collectd/etc/collectd.d/ && sudo curl -O https://raw.githubusercontent.com/Stackdriver/stackdriver-agent-service-configs/master/etc/collectd.d/apache.conf
 ```
 
-### Stackdriver Agent 재시작
+## Stackdriver Agent 재시작
 
 < Debian 8 >
 
@@ -97,15 +96,15 @@ sudo service stackdriver-agent restart
 sudo systemctl restart stackdriver-agent
 ```
 
-### Monitoring 확인
+## Monitoring 확인
 
 > Monitoring -> Resources -> Instances
 
 각 서버를 클릭해보자. stackdriver agent가 plugin이 정상으로 동작하여 정보를 제대로 가져온다면 Monitoring의 오른쪽 그래프 윗부분에서 다음과 같은 화면을 볼 수 있다.
 
-![2016-09-12-csp-gcp-stackdriver-httpd-2.jpg](/img/csp/gcp/2016-09-12-csp-gcp-stackdriver-httpd-2.jpg)
+![2016-09-12-csp-gcp-stackdriver-1-2.jpg](/images/csp/gcp/2016-09-12-csp-gcp-stackdriver-1-2.jpg)
 
-### 현재 모니터링이 가능한 항목
+## 현재 모니터링이 가능한 항목
 
 - Active Connections (count): The number of active connections currently attached to Apache.
 - Idle Workers (count): The number of idle workers currently attached to Apache.
