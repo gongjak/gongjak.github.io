@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[Using GCP] Stackdriver Third-party Appication Monitoring (Overview)"
 subtitle:   "Stackdriver Third-party Appication Monitoring (Overview)"
 categories: csp

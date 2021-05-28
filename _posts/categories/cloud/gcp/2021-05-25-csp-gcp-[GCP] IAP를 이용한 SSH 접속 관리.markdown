@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[GCP] 아무도 알려주지 않는 GCP 실전 비법"
 subtitle:   "IAP(Identity-Aware Proxy)를 이용한 SSH 접속"
 tags: gcp google cloud platform ssh

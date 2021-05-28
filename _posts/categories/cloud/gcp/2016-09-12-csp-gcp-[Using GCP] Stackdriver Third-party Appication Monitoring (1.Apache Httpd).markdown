@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[Using GCP] Stackdriver Third-party Appication Monitoring (1.Apache Httpd)"
 subtitle:   "Stackdriver Third-party Appication Monitoring (1.Apache Httpd)"
 categories: csp

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[GCP] 아무도 알려주지 않는 GCP 실전 비법"
 subtitle:   "브라우저에서 SSH 비활성화"
 tags: gcp google cloud platform ssh

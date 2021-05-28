@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[Using GCP] Stackdriver Third-party Appication Monitoring (2.Cassandra)"
 subtitle:   "Stackdriver Third-party Appication Monitoring (2.Cassandra)"
 categories: csp

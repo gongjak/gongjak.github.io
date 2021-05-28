@@ -1,18 +1,26 @@
 ---
-layout: post
-title:  "[Using GCP] MySQL 서비스 CloudSQL에 접속하기"
-subtitle:   "MySQL 서비스 CloudSQL에 접속하기"
-categories: csp
-tags: gcp google cloud platform
-date: 2016-08-03 10:38:13 +0900
-background: '/img/csp/gcp/gcp-book1.png'
+title:  "[GCP] MySQL 서비스 CloudSQL에 접속하기"
+excerpt: "MySQL 서비스 CloudSQL에 접속하기"
+toc: true
+toc_sticky: true
+header:
+  teaser: /assets/images/csp/gcp/gcp-book1.png
+
+categories:
+  - GCP
+tags:
+  - GCP(Google Cloud Platform)
+  - SSH
+last_modified_at: 2016-08-03T10:38:13+0900
 comments: true
 ---
-## 개요
+
 > 이 내용은 "빠르게 훓어보는 구글 클라우드 플랫폼(한빛미디어. 2016-08-23)"을 집필하면서 작성했던 원고이다.
 > 출판된 책은 PDF 파일로 무료로 [다운로드](https://www.hanbit.co.kr/store/books/look.php?p_code=E5359426070) 받을 수 있다.
->
->구글 클라우드에서는 MySQL의 매니지드 서비스 형태로 CloudSQL 서비스를 제공한다. 이 글에서는 CloudSQL을 서버에서 접근하는 방법과, 일반적인 MySQL 클라이언트로 접근하는 방법에 대해서 설명하고자 한다.
+
+## 개요
+
+구글 클라우드에서는 MySQL의 매니지드 서비스 형태로 CloudSQL 서비스를 제공한다. 이 글에서는 CloudSQL을 서버에서 접근하는 방법과, 일반적인 MySQL 클라이언트로 접근하는 방법에 대해서 설명하고자 한다.
 
 - 목차
     - [1세대 Cloud SQL 연결](#1세대-cloud-sql-연결)

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[GCP] 아무도 알려주지 않는 GCP 실전 비법"
 subtitle:   "운영 서버에서 디스크 구성 방안"
 categories: csp
