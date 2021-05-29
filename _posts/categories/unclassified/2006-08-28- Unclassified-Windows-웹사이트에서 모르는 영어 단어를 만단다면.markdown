@@ -1,8 +1,8 @@
 ---
 title:  "[Windows] 웹 사이트에서 모르는 영어 단어를 만난다면..."
 excerpt:   "웹 사이트에서 모르는 영어 단어를 만난다면..."
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 header:
   teaser: /images/csp/gcp/google-cloud-platform.png
 

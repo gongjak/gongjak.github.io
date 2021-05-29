@@ -1,10 +1,10 @@
 ---
-title:  "Running Postgres-BDR with Google Cloud Platform-2"
+title:  "Running Postgres-BDR with GCP - 2"
 excerpt:   "PostgreSQL로 Multi-Master를 만들자"
 toc: true
 toc_sticky: true
 header:
-  teaser: /images/rdbms/postgresql/bdr.jpg
+  teaser: /images/rdbms/postgresql/postgresql_bdr.jpg
 
 categories:
   - PostgreSQL
@@ -12,6 +12,7 @@ tags:
   - PostgreSQL
   - BDR
   - Multi-Master
+  - GCP
 last_modified_at: 2016-10-18T14:40:13+0900
 comments: true
 ---

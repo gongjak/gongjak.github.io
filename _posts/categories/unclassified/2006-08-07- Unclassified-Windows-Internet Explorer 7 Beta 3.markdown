@@ -1,8 +1,8 @@
 ---
 title:  "[Windows] Internet Explorer 7 Beta 3 Build 7.0.5450.4"
 excerpt:   "Internet Explorer 7 Beta 3 Build 7.0.5450.4 설치하기"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 header:
   teaser: /images/csp/gcp/google-cloud-platform.png
 

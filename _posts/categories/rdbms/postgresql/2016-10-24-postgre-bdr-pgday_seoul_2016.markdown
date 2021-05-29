@@ -1,10 +1,10 @@
 ---
-title:  "Postgre-BDR with Google Cloud Platform (PGDay Seoul 2016)"
+title:  "Postgre-BDR with GCP (PGDay Seoul 2016)"
 excerpt:   "PGDay Seoul 2016에서 발표 자료 입니다."
 toc: true
 toc_sticky: true
 header:
-  teaser: /images/rdbms/postgresql/pgday.jpg
+  teaser: /images/rdbms/postgresql/pgday-seoul-logo.png
 
 categories:
   - PostgreSQL
@@ -12,6 +12,7 @@ tags:
   - PostgreSQL
   - BDR
   - Multi-Master
+  - GCP
 last_modified_at: 2016-10-24T14:42:13+0900
 comments: true
 ---
