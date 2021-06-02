@@ -27,12 +27,12 @@ IAP의 활용 방법 2가지 중에서 여기서는 "HTTPS RESOURCES"에 대한 
 1. **IAP(Identity-Aware Proxy) 서비스를 사용을 위해 API를 활성화한다.**
     _GCP 메뉴 > APIs & Services > Library > IAP를 검색_ 하여 Enable 해주거나 _GCP 메뉴 > Security > Identity-Aware Proxy_ 에 처음 접속하면 다음과 같이 활성화 하라고 나온다.
 
-    ![2021-05-25-csp-gcp-iap-1.jpg](/img/csp/gcp/2021-05-25-csp-gcp-iap-1.jpg)
+    ![2021-05-25-csp-gcp-iap-1.jpg](/images/csp/gcp/2021-05-25-csp-gcp-iap-1.jpg)
 
 
 2. **SSH AND TCP RESOURCES 메뉴에서 인스턴스를 확인 할 수 있다.**
 
-    ![2021-05-25-csp-gcp-iap-2.jpg](/img/csp/gcp/2021-05-25-csp-gcp-iap-2.jpg)
+    ![2021-05-25-csp-gcp-iap-2.jpg](/images/csp/gcp/2021-05-25-csp-gcp-iap-2.jpg)
 
 
 3. **"Warning" 이라는 문구가 너무 신경쓰인다. 클릭해서 내용을 확인하자.**
@@ -40,7 +40,7 @@ IAP의 활용 방법 2가지 중에서 여기서는 "HTTPS RESOURCES"에 대한 
     아래 내용대로 방화벽 규칙을 추가 생성하고, 인스턴스에 적용해주자.
 
 
-    ![2021-05-25-csp-gcp-iap-3.jpg](/img/csp/gcp/2021-05-25-csp-gcp-iap-3.jpg)
+    ![2021-05-25-csp-gcp-iap-3.jpg](/images/csp/gcp/2021-05-25-csp-gcp-iap-3.jpg)
     - 소스필터 : 35.235.240.0/20
     - 프로토콜 : TCP
 
@@ -54,15 +54,15 @@ IAP의 활용 방법 2가지 중에서 여기서는 "HTTPS RESOURCES"에 대한 
 
     1) IAP 메뉴에서 방화벽 설정이 잘 되었음(OK)을 확인한 후, 인스턴스를 선택하고, "ADD MEMBER"를 클릭하여 "IAP-Secured Tunnel User" Role을 추가한다.
 
-    ![2021-05-25-csp-gcp-iap-4.jpg](/img/csp/gcp/2021-05-25-csp-gcp-iap-4.jpg){: width="800"}
+    ![2021-05-25-csp-gcp-iap-4.jpg](/images/csp/gcp/2021-05-25-csp-gcp-iap-4.jpg){: width="800"}
 
     2) IAM에서 구성원 또는 그룹에 "IAP-Secured Tunnel User" Role을 추가한다.
 
-    ![2021-05-25-csp-gcp-iap-5.jpg](/img/csp/gcp/2021-05-25-csp-gcp-iap-5.jpg)
+    ![2021-05-25-csp-gcp-iap-5.jpg](/images/csp/gcp/2021-05-25-csp-gcp-iap-5.jpg)
 
 6. **SSH 버튼 활성화 확인**
 
-    ![2021-05-25-csp-gcp-iap-6.jpg](/img/csp/gcp/2021-05-25-csp-gcp-iap-6.jpg){: width="800"}
+    ![2021-05-25-csp-gcp-iap-6.jpg](/images/csp/gcp/2021-05-25-csp-gcp-iap-6.jpg){: width="800"}
 
 
 # SSH 버튼 조건

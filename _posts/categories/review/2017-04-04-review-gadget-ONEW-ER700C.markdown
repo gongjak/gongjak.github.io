@@ -1,11 +1,17 @@
 ---
-layout: post
-title:  "[사용기] 오뉴(ONEW) 블루투스 이어폰 ER700C"
-subtitle:   "오뉴(ONEW) 블루투스 이어폰 ER700C"
-categories: review
-tags: review ONEW ER700C
+title:  "[리뷰] 오뉴(ONEW) 블루투스 이어폰 ER700C"
+excerpt:   "오뉴(ONEW) 블루투스 이어폰 ER700C 찐 사용기"
+toc: true
+toc_sticky: true
+header:
+  teaser: /images/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
+
+categories:
+  - review
+tags:
+  - ONEW ER700C
+last_modified_at: 2017-03-31T17:53:13+0900
 comments: true
-header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 ---
 이 제품은 선이 전혀 없는 제품으로 편의성 최고의 제품이라 생각한다.
 
@@ -28,36 +34,38 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 최근 나오기 시작한 완전 무션형 제품을 알아보니 가격이 후덜덜! 그래도 그 중에서 가성비가 좋다고 하는 ER700C 제품에 한 번 도전해 보기로 했다.
 
+---
+
 제품 정보 : [다나와 사이트 링크](http://prod.danawa.com/info/?pcode=4807162&keyword=%EB%94%94%ED%8C%8C%20%20er700c)
 
 이어폰 / 무선 / 음악+통화용 / 스테레오 / 스마트폰공용 / 완전무선형(코드리스) / 커널형 / 음성안내 / 블루투스 / 개당 4.4g / IPX5 / ver 4.1 / 음악재생:최대 4 ~ 5시간(볼륨 30%) / SBC / HFP / HSP / AVRCP / A2DP / 멀티페어링 / 충전케이스별도충전 / 고속충전 / 충전케이스배터리용량:2100mAh / 이어폰배터리용량:55mAh / 보조배터리 / 자석보관 / 배터리잔량표기 / 개별페어링
 
-![ER700C-1](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg)
+![ER700C-1](/images/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg)
 제품을 받고 반가운 마음에 박스를 열었다.
 
-![ER700C-2](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-2.jpg)
+![ER700C-2](/images/review/2017-04-04-review-gadget-ONEW-ER700C-2.jpg)
 
 생각보다 깔끔했다. 이어폰만 두 개가 저렇게 자리잡고 있으니 무언가 허전해보이기도 하다. 설명서도 안보이네. 바닥에 있으려나???
 
-![ER700C-3](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-3.jpg)
+![ER700C-3](/images/review/2017-04-04-review-gadget-ONEW-ER700C-3.jpg)
 
 역시 무언가 있었다.
 
-![ER700C-4](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-4.jpg)
+![ER700C-4](/images/review/2017-04-04-review-gadget-ONEW-ER700C-4.jpg)
 열어보니 소/대 이어캡과 충전 케이블, 메뉴얼이다.
 
-![ER700C-5](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-5.jpg)
-![ER700C-6](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-6.jpg)
-![ER700C-7](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-7.jpg)
-![ER700C-8](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-8.jpg)
-![ER700C-9](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-9.jpg)
-![ER700C-10](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-10.jpg)
+![ER700C-5](/images/review/2017-04-04-review-gadget-ONEW-ER700C-5.jpg)
+![ER700C-6](/images/review/2017-04-04-review-gadget-ONEW-ER700C-6.jpg)
+![ER700C-7](/images/review/2017-04-04-review-gadget-ONEW-ER700C-7.jpg)
+![ER700C-8](/images/review/2017-04-04-review-gadget-ONEW-ER700C-8.jpg)
+![ER700C-9](/images/review/2017-04-04-review-gadget-ONEW-ER700C-9.jpg)
+![ER700C-10](/images/review/2017-04-04-review-gadget-ONEW-ER700C-10.jpg)
 
 메뉴얼을 차분히 읽어보고 연결을 해봤다.
 
 ---
 
-# **기기와의 연결**
+# 기기와의 연결
 
 나의 기기는 아이패드 에어와 아이폰 7. 두 제품 모두 연동은 아주 잘 되었다.
 
@@ -72,7 +80,7 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 ---
 
-# **안정성**
+# 안정성
 
 - 모노 – 흠 잡을 데가 없다. 너무 잘 되고 문제도 없다.
 - 스테레오 – 마스터인 왼쪽이 비해 오른쪽은 끊김이 자주 발생한다. 종종 끊겼다가 다시 연결됨이 반복된다. 가끔은 마스터도 함께 끊어지기도 한다. 기기의 위치에 따라 끊기기도 하고, 가끔은 고개만 돌려도 끊길 때가 있다. 이어폰을 손으로만 덮어도 소리가 끊긴다. 흠…
@@ -83,7 +91,7 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 ---
 
-# **사용시간**
+# 사용시간
 
 - 모노연속 사용으로 4시간이 조금 안되는거 같다. 배터리가 거의 다 되면 삐~음이 들리다가 꺼진다. 다른 한 쪽을 켜서 사용하는 동안에 완충이 가능하기에 바꿔가면서 사용하면 하루 종일도 들을 수 있다.
 - 스테레오총 사용시간은 모노와 비슷하게 4시간이 조금 못미쳤다. 페어링 하고나서 스테레오로 음악을 듣기 시작한 이 후로 약 50분 정도는 끊김없이 잘 동작했다.
@@ -96,7 +104,7 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 ---
 
-# **음질**
+# 음질
 
 사실 이 부분은 개인적인 편차가 크기에 뭐라 말하기는 어렵다. 다만 고가의 헤드폰이나 이어폰의 음질은 기대하지 않는게 좋다. (명품이 괜히 명품은 아니다. 하지만 그 만큼 비싸다)
 
@@ -104,13 +112,13 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 ---
 
-# **차폐성**
+# 차폐성
 
 귀에 쏙 들어가는 커널형 인이어 타입의 이어폰이기에 양쪽을 다 꼽으면 바깥 소리가 거의 안들린다. 대신에 커널형 특유의 내 안에서의 울림이 느껴지는 것은 어쩔 수 없으리라.
 
 ---
 
-# **통화품질**
+# 통화품질
 
 주변의 사람들에게 미안해질 수 있다. 마이크가 귀에 꼽혀 있기에 입과 멀리 떨어져서 조용히 이야기하면 상대방이 잘 안들린다고 한다.
 
@@ -118,36 +126,36 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 ---
 
-# **충전기 겸용 보조 배터리**
+# 충전기 겸용 보조 배터리
 
 보조 배터리 용량 : 2100mAh
 
-![ER700C-11](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-11.jpg)
-![ER700C-12](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-12.jpg)
+![ER700C-11](/images/review/2017-04-04-review-gadget-ONEW-ER700C-11.jpg)
+![ER700C-12](/images/review/2017-04-04-review-gadget-ONEW-ER700C-12.jpg)
 
 충전 상태 알림 LED는 파란색이이다.
 
 사용하지 않을 때에는 충전기 겸용 보조 배터리에 자석식으로 붙혀놓게 되어 있다. 그냥 탁! 하고 붙고 충전이 된다.
 
-![ER700C-13](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-13.jpg)
+![ER700C-13](/images/review/2017-04-04-review-gadget-ONEW-ER700C-13.jpg)
 충전중 모습
 
 블루투스가 연결된 상태에서도 그냥 붙히면 자동으로 연결이 끊어진다.모노로 하루종일 사용하면서 충전을 시켜봤다. 하루종일 번갈아 가면서 사용했는데 배터기가 완전히 방전된 적이 없다.
 
-![ER700C-14](/assets/img/review/2017-04-04-review-gadget-ONEW-ER700C-14.jpg)
+![ER700C-14](/images/review/2017-04-04-review-gadget-ONEW-ER700C-14.jpg)
 
 
 보조 배터리 안으로 이렇게 쏙 들어가서 가지고 다니기 편하다.
 
 ---
 
-# **무게**
+# 무게
 
 이어폰은 정말 가볍다. 착용한 상태로 조금 지나니 무게감은 거의 느껴지지 않는다.보조 배터리가 무거울거라 생각했는데, 어라? 가볍다. 크기도 적당해서 주머니에 넣어 다니기도 괜찮다.
 
 ---
 
-# **편의성**
+# 편의성
 
 이어폰이 귓속에 꼽히기에 아프거나 헐거워 빠지진 않을까 싶었는데, 고무 재질이 부드러워 아픈건 전혀 없었고, 생각보단 잘 빠지지도 않았다.
 
@@ -161,7 +169,7 @@ header-img: img/review/2017-04-04-review-gadget-ONEW-ER700C-1.jpg
 
 ---
 
-# **결론**
+# 결론
 
 약 2주 정도 사용하면서 느낀 점들을 적어봤는데, 통화 기능과 스테레오 사용이 불편했으나 유선의 연결이 전혀 없었고, 모노로 사용할 경우 하루 종일 아니 그 이상의 시간동안 지속적으로 사용이 가능했기에 나름 만족스럽다.
 

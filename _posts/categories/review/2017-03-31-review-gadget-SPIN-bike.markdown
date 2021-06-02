@@ -1,11 +1,17 @@
 ---
-layout: post
 title:  "[리뷰] 스핀 바이크(SPIN Bike) 구입기"
-subtitle:   "스핀 바이크(SPIN Bike) 구입기"
-categories: review
-tags: review SPIN Bike
+excerpt:   "스핀 바이크(SPIN Bike) 구입기"
+toc: true
+toc_sticky: true
+header:
+  teaser: /images/review/2017-03-31-review-gadget-SPIN-bike-2.jpg
+
+categories:
+  - review
+tags:
+  - SPIN Bike
+last_modified_at: 2017-03-30T14:34:13+0900
 comments: true
-header-img: img/review/2017-03-31-review-gadget-SPIN-bike-2.jpg
 ---
 > 이 구입기는 업체의 어떤 지원도 없이 순수하게 나만의 경험을 토대로 있는 그대로의 사실 만을 기록한 것임을 밝힙니다.
 

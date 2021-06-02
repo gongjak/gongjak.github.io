@@ -1,29 +1,36 @@
 ---
-layout: post
 title:  "[리뷰] SONY MDR-1000X 구입/사용기"
-subtitle:   "SONY MDR-1000X 구입/사용기 (환불받음)"
-categories: review
-tags: review sony mdr-100x
+excerpt:   "SONY MDR-1000X 구입하고 30일도 안되서 환불 받음"
+toc: true
+toc_sticky: true
+header:
+  teaser: /images/review/2017-03-17-review-gadget-sony-mdr-1000x-1.jpg
+
+categories:
+  - review
+tags:
+  - sony
+last_modified_at: 2017-03-17T17:53:13+0900
 comments: true
-header-img: img/review/2017-03-17-review-gadget-sony-mdr-1000x-1.jpg
 ---
+
 # SONY MDR-1000X 구입/사용기 (환불받음)
 ### WIRELESS NOISE CANCELING STEREO HEADSET
 
 ## MDR-1000X BOX
-![MDR-1000X BOX](/assets/img/review/2017-03-17-review-gadget-sony-mdr-1000x-1.jpg)
+![MDR-1000X BOX](/images/review/2017-03-17-review-gadget-sony-mdr-1000x-1.jpg)
 
 ## 파우치
-![MDR-1000X BOX Pouch](/assets/img/review/2017-03-17-review-gadget-sony-mdr-1000x-2.jpg)
+![MDR-1000X BOX Pouch](/images/review/2017-03-17-review-gadget-sony-mdr-1000x-2.jpg)
 
 ## 구성물
-![MDR-1000X BOX gear](/assets/img/review/2017-03-17-review-gadget-sony-mdr-1000x-3.jpg)
+![MDR-1000X BOX gear](/images/review/2017-03-17-review-gadget-sony-mdr-1000x-3.jpg)
 
 ## 구성물 상세
-![MDR-1000X BOX detail](/assets/img/review/2017-03-17-review-gadget-sony-mdr-1000x-4.jpg)
+![MDR-1000X BOX detail](/images/review/2017-03-17-review-gadget-sony-mdr-1000x-4.jpg)
 
 ## 본체
-![MDR-1000X BOX Main](/assets/img/review/2017-03-17-review-gadget-sony-mdr-1000x-5.jpg)
+![MDR-1000X BOX Main](/images/review/2017-03-17-review-gadget-sony-mdr-1000x-5.jpg)
 
 
 # 구입기
@@ -88,7 +95,7 @@ header-img: img/review/2017-03-17-review-gadget-sony-mdr-1000x-1.jpg
 
 이게 무슨 말인가...너무 당혹스러웠다.
 
-![MDR-1000X multi_pairing](/assets/img/review/2017-03-17-review-gadget-sony-mdr-1000x-6.jpg)
+![MDR-1000X multi_pairing](/images/review/2017-03-17-review-gadget-sony-mdr-1000x-6.jpg)
 
 결국 이 설명에 나와있는 "음악 재생 기기와 통화 기기를 동시에 연결하는 멀티 포인트" 기능은 두 대의 iOS 기기에서는 사용이 불가능하며, 안드로이드도 프로파일 설정을 수동으로 해야만 가능한 기능이었던 것이다. 이는 SONY의 모든 헤드폰/이어폰이 동일하다고 한다.
 

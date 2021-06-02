@@ -1,9 +1,16 @@
 ---
-layout: post
 title:  "[Wordpress] Wordpress.com에서 예쁘게 소스 코드 삽입하기"
-subtitle:   "Wordpress.com에서 예쁘게 소스 코드 삽입하기"
-categories: favorites
-tags: favorites
+excerpt:   "Wordpress.com에서 예쁘게 소스 코드 삽입하기"
+toc: false
+toc_sticky: false
+header:
+  teaser: /assets/img/system-software-tool.jpg
+
+categories:
+  - favorites
+tags:
+  - wordpress
+last_modified_at: 2016-07-30T20:18:13+0900
 comments: true
 ---
 
