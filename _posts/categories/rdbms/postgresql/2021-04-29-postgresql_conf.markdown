@@ -4,7 +4,7 @@ excerpt:   "PostgreSQL의 기본 설정 권고값"
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/img/postgresql-log.png
+  teaser: /assets/img/postgresql-logo.png
 
 categories:
   - PostgreSQL
