@@ -14,7 +14,8 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+/*$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",*/
+$sans-serif: -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -143,14 +144,20 @@ $base0f: #ff5370 !default;
 /*
    Breakpoints
    ========================================================================== */
-
+/*
 $small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
 $max-width: $x-large !default;
-
+*/
+$small: 600px !default;
+$medium: 768px !default;
+$medium-wide: 900px !default;
+$large: 1280px !default;
+$x-large: 1600px !default;
+$max-width: $x-large !default;
 /*
    Grid
    ========================================================================== */

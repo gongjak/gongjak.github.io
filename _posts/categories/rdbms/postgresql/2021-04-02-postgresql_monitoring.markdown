@@ -4,7 +4,7 @@ excerpt:   "PostgreSQL에서 자주 사용하는 모니터링 Query 모음"
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/img/postgresql-log.png
+  teaser: /assets/img/postgresql-logo.png
 
 categories:
   - PostgreSQL
