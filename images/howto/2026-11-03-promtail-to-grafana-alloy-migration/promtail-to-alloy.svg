@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker>
+<marker id="b" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1F6FB2"/></marker></defs>
+<rect width="1000" height="600" fill="#fff"/>
+<text x="220.0" y="50" text-anchor="middle" font-size="26" font-weight="800" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">바꾸기 전</text>
+<text x="780.0" y="50" text-anchor="middle" font-size="26" font-weight="800" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">바꾼 뒤</text>
+<rect x="70" y="85" width="300" height="60" rx="10" fill="#f4f4f4" stroke="#333" stroke-width="2"/><text x="220.0" y="122.0" text-anchor="middle" font-size="20" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">노드의 로그 파일</text><line x1="220.0" y1="145" x2="220.0" y2="198" stroke="#555" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="70" y="200" width="300" height="100" rx="10" fill="#fdf0ee" stroke="#b5452f" stroke-width="2"/>
+<text x="220.0" y="240" text-anchor="middle" font-size="22" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">Promtail</text>
+<rect x="135.0" y="256" width="170" height="30" rx="15" fill="#b5452f"/><text x="220.0" y="277" text-anchor="middle" font-size="16" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#fff">EOL 2026-03-02</text>
+<line x1="220.0" y1="300" x2="220.0" y2="498" stroke="#555" stroke-width="2.5" marker-end="url(#a)"/><rect x="70" y="500" width="300" height="60" rx="10" fill="#f4f4f4" stroke="#333" stroke-width="2"/><text x="220.0" y="537.0" text-anchor="middle" font-size="20" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">Loki</text>
+<rect x="630" y="85" width="300" height="60" rx="10" fill="#f4f4f4" stroke="#333" stroke-width="2"/><text x="780.0" y="122.0" text-anchor="middle" font-size="20" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">노드의 로그 파일</text><line x1="780.0" y1="145" x2="780.0" y2="198" stroke="#555" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="630" y="200" width="300" height="250" rx="12" fill="#eef5fb" stroke="#1F6FB2" stroke-width="2"/>
+<text x="650" y="232" font-size="22" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#1F6FB2">Alloy</text>
+<rect x="660" y="250" width="240" height="44" rx="10" fill="#fff" stroke="#333" stroke-width="2"/><text x="780.0" y="279.0" text-anchor="middle" font-size="17" font-weight="700" font-family="Menlo, monospace" fill="#222">local.file_match</text><line x1="780.0" y1="294" x2="780.0" y2="320" stroke="#555" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="660" y="322" width="240" height="44" rx="10" fill="#fff" stroke="#333" stroke-width="2"/><text x="780.0" y="351.0" text-anchor="middle" font-size="17" font-weight="700" font-family="Menlo, monospace" fill="#222">loki.source.file</text><line x1="780.0" y1="366" x2="780.0" y2="392" stroke="#555" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="660" y="394" width="240" height="44" rx="10" fill="#fff" stroke="#333" stroke-width="2"/><text x="780.0" y="423.0" text-anchor="middle" font-size="17" font-weight="700" font-family="Menlo, monospace" fill="#222">loki.write</text>
+<line x1="780.0" y1="450" x2="780.0" y2="498" stroke="#555" stroke-width="2.5" marker-end="url(#a)"/><rect x="630" y="500" width="300" height="60" rx="10" fill="#f4f4f4" stroke="#333" stroke-width="2"/><text x="780.0" y="537.0" text-anchor="middle" font-size="20" font-weight="700" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">Loki</text>
+<text x="500" y="320" text-anchor="middle" font-size="18" font-weight="700" font-family="Menlo, monospace" fill="#1F6FB2">alloy convert</text>
+<line x1="395" y1="340" x2="605" y2="340" stroke="#1F6FB2" stroke-width="3" marker-end="url(#b)"/>
+</svg>
